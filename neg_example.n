@@ -1,0 +1,15 @@
+target(e_77).
+target(e_244).
+target(e_1473).
+target(e_1971).
+target(e_3080).
+target(e_3755).
+target(e_3968).
+target(e_4409).
+target(e_6542).
+target(e_7034).
+target(e_7142).
+target(e_7659).
+target(e_8730).
+target(e_9045).
+target(e_9707).
